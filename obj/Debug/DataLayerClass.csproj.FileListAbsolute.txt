@@ -1,0 +1,14 @@
+C:\Users\ViSri Retail\source\repos\DataLayerClass\obj\Debug\DataLayerClass.csproj.AssemblyReference.cache
+C:\Users\ViSri Retail\source\repos\DataLayerClass\obj\Debug\DataLayerClass.csproj.CoreCompileInputs.cache
+C:\Users\ViSri Retail\source\repos\DataLayerClass\bin\Debug\DataLayerClass.dll.config
+C:\Users\ViSri Retail\source\repos\DataLayerClass\bin\Debug\DataLayerClass.dll
+C:\Users\ViSri Retail\source\repos\DataLayerClass\bin\Debug\DataLayerClass.pdb
+C:\Users\ViSri Retail\source\repos\DataLayerClass\bin\Debug\Contract.dll
+C:\Users\ViSri Retail\source\repos\DataLayerClass\bin\Debug\EntityFramework.dll
+C:\Users\ViSri Retail\source\repos\DataLayerClass\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ViSri Retail\source\repos\DataLayerClass\bin\Debug\Contract.pdb
+C:\Users\ViSri Retail\source\repos\DataLayerClass\bin\Debug\EntityFramework.xml
+C:\Users\ViSri Retail\source\repos\DataLayerClass\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ViSri Retail\source\repos\DataLayerClass\obj\Debug\DataLayerClass.csproj.CopyComplete
+C:\Users\ViSri Retail\source\repos\DataLayerClass\obj\Debug\DataLayerClass.dll
+C:\Users\ViSri Retail\source\repos\DataLayerClass\obj\Debug\DataLayerClass.pdb
